@@ -189,3 +189,6 @@ https://www.linkedin.com/in/engmariam-hassan?utm_source=share_via&utm_content=pr
 ![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamEid123&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamEid123&layout=compact&theme=tokyonight)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MariamEid123&theme=tokyonight)
