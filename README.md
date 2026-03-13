@@ -192,3 +192,13 @@ https://www.linkedin.com/in/engmariam-hassan?utm_source=share_via&utm_content=pr
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MariamEid123&theme=tokyonight)
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|-------|-------------|
+| Management Grading System | Java GUI system for managing student grades |
+| Reduction Formula & Numerical Calculator | Web application for numerical integration and reduction formulas |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
