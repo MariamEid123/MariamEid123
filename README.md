@@ -221,6 +221,53 @@ print(f"✨ Welcome to {mariam.name}'s GitHub!")
 
 ---
 
+## 🏅 CERTIFICATIONS
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2231/2231453.png" width="70"/>
+
+### 🖥️ Operating Systems: Overview, Administration & Security
+
+<img src="https://img.shields.io/badge/IBM-Authorized-FFD700?style=for-the-badge&logo=ibm&logoColor=black&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Coursera-Feb_2026-E91E8C?style=for-the-badge&logo=coursera&logoColor=white&labelColor=101010"/>
+
+**Issued by:** IBM via Coursera  
+**Date:** February 25, 2026
+
+[![Verify](https://img.shields.io/badge/Verify_Certificate-E91E8C?style=for-the-badge&labelColor=000000)](https://coursera.org/verify/YHGUPUXCGXZ9)
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="70"/>
+
+### ☕ Object Oriented Programming in Java
+
+<img src="https://img.shields.io/badge/UC_San_Diego-Authorized-FFD700?style=for-the-badge&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Coursera-May_2026-E91E8C?style=for-the-badge&logo=coursera&logoColor=white&labelColor=101010"/>
+
+**Issued by:** UC San Diego via Coursera  
+**Date:** May 2, 2026
+
+[![Verify](https://img.shields.io/badge/Verify_Certificate-E91E8C?style=for-the-badge&labelColor=000000)](https://coursera.org/verify/LXMWZC6REN9A)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3"/>
+</div>
+
+---
+
 ## 💭 PHILOSOPHY & GOALS
 
 <div align="center">
