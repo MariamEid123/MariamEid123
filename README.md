@@ -47,10 +47,10 @@
 ## 🌐 PORTFOLIO WEBSITE
 
 <p align="center">
-  <a href="https://omar-shaer.tech/" target="_blank">
+  <a href="https://mariameidproto.netlify.app/" target="_blank">
     <img 
       src="/assets/projects/portfolio-main.png" 
-      alt="Omar Elshaer Portfolio"
+      alt="Mariam Eid Portfolio"
       width="600" 
       height="340"
       style="border-radius: 12px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.4); border: 1px solid rgba(102, 126, 234, 0.3);"
@@ -59,8 +59,8 @@
 </p>
 
 <p align="center">
-  <a href="https://omar-shaer.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-omar--shaer.tech-667EEA?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Visit Portfolio">
+  <a href="https://mariameidproto.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐https://mariameidproto.netlify.app/?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000" alt="Visit Portfolio">
   </a>
 </p>
 
