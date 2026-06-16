@@ -2,12 +2,12 @@
 
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=MARIAM%20EID&fontSize=80&color=gradient&customColorList=12,14,16,18,20&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Developer%20%7C%20AIU&descAlignY=55&descAlign=50&descSize=22"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/gifwithme.gif">
-  <img width="100%" src="assets/projects/gifwithme.gif">
-</picture>
 
- <br>
+<!-- Animated Banner GIF -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+
+<br/>
+
 <!-- Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=E91E8C&center=true&multiline=true&width=500&height=150&lines=%F0%9F%9A%80+Building+Real+Digital+Experiences;%F0%9F%8C%90+Passionate+About+Clean+Code;Crafting+Pixel-Perfect+UIs+%E2%9D%A4%EF%B8%8F;%F0%9F%93%8A+Software+Engineer+in+the+Making)](https://git.io/typing-svg)
 
