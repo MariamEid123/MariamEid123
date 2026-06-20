@@ -75,7 +75,7 @@ print(f"✨ Welcome to {mariam.name}'s GitHub!")
 ## 🚀 FEATURED PROJECTS
 
 <p align="center">
-  <b>🌟 4 Projects | Built with Passion & Modern Tech 🌟</b>
+  <b>🌟 6 Projects | Built with Passion & Modern Tech 🌟</b>
 </p>
 
 <table align="center">
@@ -112,6 +112,60 @@ print(f"✨ Welcome to {mariam.name}'s GitHub!")
 - 🎨 Modern, branded UI/UX design
 - 📱 Fully responsive layout
 - ⚙️ Backend integration & data handling
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%" colspan="2">
+
+### 🛡️ Blue-Shield — Coastal Storm Defense System
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-→-E91E8C?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=000000)](https://mariameid123.github.io/blue-shield/)
+
+<table>
+<tr>
+<td width="40%"><img src="https://raw.githubusercontent.com/MariamEid123/blue-shield/main/assets/command-center.png" alt="Command Center"/></td>
+<td width="30%"><img src="https://raw.githubusercontent.com/MariamEid123/blue-shield/main/assets/citizen-portal.png" alt="Citizen Portal"/></td>
+<td width="30%"><img src="https://raw.githubusercontent.com/MariamEid123/blue-shield/main/assets/override-console.png" alt="Override Console"/></td>
+</tr>
+</table>
+
+```yaml
+🔬 Tech: HTML5 + CSS3 + JavaScript (SVG, live charts, animations)
+⚡ Purpose: Storm-surge early warning & barrier control system
+🎯 Focus: UI/UX for Alexandria's Corniche coastline
+👤 Role: Solo Designer & Developer
+```
+
+- 🖥️ **Command Center** — live coastline radar map, 12-sector barrier status, real-time telemetry charts & system log
+- 📱 **Citizen Portal** — mobile alert app with countdown timer, safe routes, and live pedestrian safety feed
+- 🔐 **Manual Override Console** — secure engineer interface with biometric scan UI & cryptographic key entry
+- 🌊 Modeled around real Alexandria coastline landmarks (Montaza, Stanley, Qaitbay, Corniche)
+- ✨ Custom SVG animations: radar sweep, pulsing alert nodes, live data charts
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%" colspan="2">
+
+### 💙 PurePath — AI-Driven Therapy Support Platform
+
+<img src="https://raw.githubusercontent.com/MariamEid123/PurePath/main/assets/chat-screen.png" width="700" alt="PurePath Chat Screen"/>
+
+```yaml
+🔬 Tech: Python + Flask + Google Gemini AI + HTML/CSS/JS
+⚡ Purpose: Anonymous, judgment-free mental health support
+🎯 Focus: AI-driven intake + doctor-patient dashboard
+👤 Role: Solo Developer
+```
+
+- 🤖 Empathetic AI intake agent powered by Google's Gemini model
+- 🕵️ Fully anonymous sessions — no real names required
+- 👩‍⚕️ Doctor dashboard with case list, transcripts & one-click clinical report generation
+- 📋 Gemini auto-generates structured intake reports (concerns, observations, next steps)
+- 🔐 Separate patient & doctor flows with dedicated dashboards
 
 </td>
 </tr>
@@ -162,7 +216,7 @@ print(f"✨ Welcome to {mariam.name}'s GitHub!")
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,cpp,java,git,github,vscode,netlify&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,cpp,java,python,flask,git,github,vscode,netlify&perline=6&theme=dark" />
 
 ### 🌐 Languages & Frontend
 
@@ -173,6 +227,14 @@ print(f"✨ Welcome to {mariam.name}'s GitHub!")
 <img src="https://img.shields.io/badge/React-E91E8C?style=for-the-badge&logo=react&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/C++-FFD700?style=for-the-badge&logo=cplusplus&logoColor=black&labelColor=101010"/>
 <img src="https://img.shields.io/badge/Java-E91E8C?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010"/>
+</p>
+
+### 🐍 Backend & AI
+
+<p>
+<img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Flask-E91E8C?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Google_Gemini-FFD700?style=for-the-badge&logo=google&logoColor=black&labelColor=101010"/>
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -215,7 +277,7 @@ print(f"✨ Welcome to {mariam.name}'s GitHub!")
 
 | 🌐 Live Projects | 🎓 University | 📅 Year | 💻 Languages |
 |:---:|:---:|:---:|:---:|
-| **4+** | **AIU** | **2nd Year** | **6+** |
+| **6+** | **AIU** | **2nd Year** | **6+** |
 
 </div>
 
